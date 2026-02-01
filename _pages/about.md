@@ -1,15 +1,21 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+**Yuanhao Liu** has been a special research fellow at the School of Computing and Information Technology, Greater Bay University, since 2024. He received his B.E. degree in 2016 and his Ph.D. in Information and Communication Engineering in 2022, both from the School of Communication Engineering at Xidian University. He also holds a dual Ph.D. in Computer Science, awarded in 2023 by the Laboratoire Informatique d’Avignon, Université d’Avignon, France.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+During his doctoral studies, Dr. Liu was awarded several prestigious scholarships, including the French Eiffel Excellence Scholarship (2019–2020), the China Scholarship Council (CSC) Doctoral Scholarship (2020–2022), and the Université d’Avignon Cotutelle Scholarship (2022).
+
+His research focuses on large-scale optical network protection and scheduling, optical interconnects for AI computing centers, computing and network resource allocation/optimization, and underwater optical networks. He has authored more than 20 high-quality journal and conference papers in leading venues such as IEEE Transactions on Network and Service Management, IEEE/OSA Journal of Lightwave Technology, IEEE Network, IEEE Globecom, and IEEE ICC.
+
+Dr. Liu is a Member of IEEE. He has served as a TPC member in the 2026 IEEE Globecom, and 2025/2026 IEEE ISCC. He has also served as a reviewer in several journals (such as IEEE Transactions on Network and Service Management, IEEE Open Journal of the Communications Society、IEEE/OSA Journal of Optical Communications) and conferences (Networking、Globecom、IWCMC、WiMob、ISCC、ICT-DM).
+
+
 
 A data-driven personal website
 ======
