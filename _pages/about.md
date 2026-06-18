@@ -1,12 +1,10 @@
 ---
-permalink: /
+permalink: /about/
 title: "Short Bio"
 author_profile: true
-redirect_from: 
-  - /about/
+redirect_from:
   - /about.html
 ---
-
 **Yuanhao Liu** has been a special-term research fellow at the School of Computing and Information Technology, Greater Bay University, since 2024. He received his B.E. and Ph.D. degrees in Information and Communication Engineering in 2016 and 2022, respectively, both from the School of Communication Engineering at Xidian University. He also holds a joint Ph.D. in Computer Science, awarded in 2023 by the Laboratoire Informatique d’Avignon, Université d’Avignon, France.
 
 His research focuses on resilient optical network scheduling, optical interconnects for AI computing centers, computing and network resource allocation/optimization, and underwater optical networks. He has authored more than 20 high-quality journal and conference papers in leading venues such as IEEE Trans., Journal of Lightwave Technology, IEEE Network, IEEE Globecom, and IEEE ICC.
