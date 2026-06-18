@@ -21,6 +21,13 @@ author_profile: true
 - Minwei Fan, **Yuanhao Liu**, Ning Deng, Cao Chen, “Survivable C+L Optical Network Provisioning in Different Failure Scenarios,” Submitted to Journal of Optical Communications and Networking in Jun. 2026.
 - **Yuanhao Liu**, Xiaolan Xie, Ning Deng, Minwei Fan, and Cao Chen, “High-Resilience Optical Network for Artificial Intelligence Data Centers,” Study on Optical Communications, 2026(4): xx-xx.
 
+- **Yuanhao Liu**, Ning Deng, Cao Chen, and Jianfei He, “On Resilient OCS-based Data Center Networks,” 2026 IEEE International Conference on Communications (ICC), Glasgow, May 2026, pp. 1-6.
+- **Yuanhao Liu**, and Ning Deng, “Disaster-Resilient Provisioning Leveraging Shared Adaptive Unequal Multi-Path Protection in DCONs,” 2025 IEEE Global Communications Conference (GLOBECOM), Taipei, Dec.2025, pp. 4077-4082.
+- **Yuanhao Liu**, Fen Zhou, Tao Shang, and Juan-Manuel Torres-Moreno, “Power-efficient and Distance-adaptive Disaster Protection for Service Function Chain Provisioning,” 2022 IEEE Global Communications Conference (GLOBECOM), Rio de Janeiro, Brazil, 2022, pp. 4407-4412.
+- **Yuanhao Liu**, Fen Zhou, Cao Chen, Zuqing Zhu, Tao Shang, and Juan-Manuel Torres-Moreno, “Disaster Protection in Inter-DataCenter Networks leveraging Cooperative Storage,” 2020 IEEE Global Communications Conference (GLOBECOM), Taipei, 2020, pp. 1-6.
+- **Yuanhao Liu**, Fen Zhou, Michał Pióro, Tao Shang, Juan-Manuel Torres-Moreno, and Abderrahim Benslimane, “On Flow-based Directed p-cycles in Elastic Optical Networks,” 2022 27th IEEE Symposium on Computers and Communications (ISCC), Rhodes Island, Jul. 2022, pp. 1-6.
+- **Yuanhao Liu**, and Shang Tao, “Initialization of Hybrid Underwater Optical/Acoustic Network with Asymmetrical Duplex Link,” 2018 20th International Conference on Transparent Optical Networks (ICTON), Bucharest, Sep. 2018, pp. 1-4.
+[7]	Minwei Fan, **Yuanhao Liu*(corresponding author)**, and Ning Deng*, "Disaster-Resilient Provisioning in C+L Multi-Band Optical Networks," 2025 Asia Communications and Photonics Conference (ACP), Jiangsu, China, 2025, pp. 1-5.
+- **Yuanhao Liu**, Ning Deng, and Minwei Fan, “On p-Cycle-based Disaster Protection for Optical Network Provisioning,” Submitted to 2025 IEEE Global Communications Conference (GLOBECOM) in May 2026.
+- Xiaolan Xie, **Yuanhao Liu*(corresponding author)**, Cao Chen, Minwei Fan, Ning Deng*, and Kezhong Lu, “Disaster Protection in SDM Elastic Optical Network with and without Inter-Core Switching,” Submitted to 2025 IEEE Global Communications Conference (GLOBECOM) in May 2026.
 
-### Conference Papers
-1. 张三, 王五. Title C. IEEE GLOBECOM, 2025.
