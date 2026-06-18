@@ -14,3 +14,21 @@ His research focuses on resilient optical network scheduling, optical interconne
 Dr. Liu is a Member of IEEE. He has served as a reviewer for several journals (such as IEEE Communications Magazine, IEEE Transactions on Network and Service Management, IEEE Open Journal of the Communications Society, Journal of Optical Communications Networking, IEEE Networking Letters) and conferences (Globecom, IWCMC, WiMob, ISCC, ICT-DM). He has also served as a TPC member for the 2026 IEEE Globecom and the 2025/2026 IEEE ISCC. 
 
 During his doctoral studies, Dr. Liu was awarded several prestigious scholarships, including the French Eiffel Excellence Scholarship (2019–2020), the China Scholarship Council (CSC) Doctoral Scholarship (2020–2022), and the Université d’Avignon Cotutelle Scholarship (2022).
+
+## Representative Works
+
+### Journals
+
+- **Yuanhao Liu**, and Ning Deng, “Shared and Adaptive Unequal Multi-Path Protection in Inter-Datacenter Optical Networks,” *Journal of Lightwave Technology*, Early Access Article, May 2026.
+- **Yuanhao Liu**, Fen Zhou, Michał Pióro, Tao Shang, and Juan-Manuel Torres-Moreno, “Power-Efficient Directed p-Cycle Design Leveraging Loop-Eliminating Flow and Column Generation,” *IEEE Transactions on Network and Service Management*, Early Access Article, Jun. 2026.
+- **Yuanhao Liu**, Fen Zhou, and Tao Shang. “A Novel Initialization Method for Hybrid Underwater Optical Acoustic Networks,” *IEEE Network*, vol. 39, no. 3, pp. 277-284, May 2025.
+- **Yuanhao Liu**, Yuxuan He, Yongjun Li, Zhiqiang Ma, Xiang Wang, Min Ju, Xuan Li, and Xin Li “Cost-Oriented and Delay-Constrained Anycasting for Service Function Chain Provisioning Leveraging Cloud-Edge Collaboration in Space-Air-Ground Integrated Networks,” *IEEE Internet of Things Journal*, vol. 12, no. 4, pp. 4475-4487, Feb. 2025.
+- **Yuanhao Liu**, Fen Zhou, Tao Shang, and Juan-Manuel Torres-Moreno, “Disaster Protection for Service Function Chain Provisioning in EO-DCNs,” *IEEE Transactions on Network and Service Management*, vol. 20, no. 3, pp. 2356-2369, Sept. 2023.
+- - **Yuanhao Liu**, Fen Zhou, Cao Chen, Zuqing Zhu, Tao Shang, and Juan-Manuel Torres-Moreno, “Disaster Protection in Inter-DataCenter Networks leveraging Cooperative Storage,” *IEEE Transactions on Network and Service Management*, vol. 18, no. 3, pp. 2598-2611, Sept. 2021.
+    
+### Conferences
+
+- **Yuanhao Liu**, Ning Deng, Cao Chen, and Jianfei He, “On Resilient OCS-based Data Center Networks,” *2026 IEEE International Conference on Communications (ICC)*, Glasgow, May 2026, pp. 1-6.
+- **Yuanhao Liu**, Fen Zhou, Tao Shang, and Juan-Manuel Torres-Moreno, “Power-efficient and Distance-adaptive Disaster Protection for Service Function Chain Provisioning,” *2022 IEEE Global Communications Conference (GLOBECOM)*, Rio de Janeiro, Brazil, 2022, pp. 4407-4412.
+- **Yuanhao Liu**, Fen Zhou, Cao Chen, Zuqing Zhu, Tao Shang, and Juan-Manuel Torres-Moreno, “Disaster Protection in Inter-DataCenter Networks leveraging Cooperative Storage,” *2020 IEEE Global Communications Conference (GLOBECOM)*, Taipei, 2020, pp. 1-6.
+- **Yuanhao Liu**, and Ning Deng, “Disaster-Resilient Provisioning Leveraging Shared Adaptive Unequal Multi-Path Protection in DCONs,” *2025 IEEE Global Communications Conference (GLOBECOM)*, Taipei, Dec.2025, pp. 4077-4082.
