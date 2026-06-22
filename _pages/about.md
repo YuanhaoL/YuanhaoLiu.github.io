@@ -7,13 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-**Yuanhao Liu** has been a special-term research fellow at the School of Computing and Information Technology, Greater Bay University, since 2024. He received his B.E. and Ph.D. degrees in Information and Communication Engineering in 2016 and 2022, respectively, both from the School of Communication Engineering at Xidian University. He also holds a joint Ph.D. in Computer Science, awarded in 2023 by the Laboratoire Informatique d’Avignon, Université d’Avignon, France.
+**Yuanhao Liu** has been a special-term research fellow at the School of Computing and Information Technology, Greater Bay University, since 2024. He received his B.E. and Ph.D. degrees in Information and Communication Engineering in 2016 and 2022, respectively, both from the School of Communication Engineering at Xidian University. He also holds a joint Ph.D. in Computer Science, awarded in 2022.11 by the Laboratoire Informatique d’Avignon, Université d’Avignon, France.
 
 His research focuses on resilient optical network scheduling, optical interconnects for AI computing centers, computing and network resource allocation/optimization, and underwater optical networks. He has authored more than 20 high-quality journal and conference papers in leading venues such as IEEE Trans., Journal of Lightwave Technology, IEEE Network, IEEE Globecom, and IEEE ICC.
 
 Dr. Liu is a Member of IEEE. He has served as a reviewer for several journals (such as IEEE Communications Magazine, IEEE Transactions on Network and Service Management, IEEE Open Journal of the Communications Society, Journal of Optical Communications Networking, IEEE Networking Letters) and conferences (Globecom, IWCMC, WiMob, ISCC, ICT-DM). He has also served as a TPC member for the 2026 IEEE Globecom and the 2025/2026 IEEE ISCC. 
 
 During his doctoral studies, Dr. Liu was awarded several prestigious scholarships, including the French Eiffel Excellence Scholarship (2019–2020), the China Scholarship Council (CSC) Doctoral Scholarship (2020–2022), and the Université d’Avignon Cotutelle Scholarship (2022).
+
+## Work Experience
+
+- 2024.08.01 –Pres., Special-Term Research Fellow
+-- School of Computing and Information Technology, Great Bay University
+
+## Educational Experience
+
+- 2019.09 – 2022.11, Joint Ph.D. Degree (Computer Science)
+-- Laboratoire Informatique d’Avignon (LIA), Université d’Avignon
+  Co-supervised by Prof. Fen Zhou (HDR) and Prof. Juan-Manuel Torres-Moreno (HDR)
+
+- 2016.09 – 2022.12, Ph.D. Degree (Information and Telecommunications Engineering)
+-- School of Telecommunications Engineering, Xidian University
+  Supervised by Prof. Tao Shang (Vice Dean of School of Telecommunications Engineering)
+  Successive postgraduate and doctoral programs
+
+- 2016.09 – 2022.12, Ph.D. Degree (Information and Telecommunications Engineering)
+-- School of Telecommunications Engineering, Xidian University
+  Teaching Reform Experimental Class
 
 ## Representative Works
 
