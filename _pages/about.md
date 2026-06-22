@@ -14,7 +14,7 @@ Dr. Liu is a Member of IEEE. His research focuses on **resilient optical network
 ## Research Interests
 
 - Resilient optical network scheduling (disaster failure protection, p-cycle protection, switch/link failure protection in AI computing clusters)
-- Inter/Intra-Data Center optical Networks
+- Inter-/Intra-Datacenter optical Networks
 - Space-Air-Ground Integrated Networks (SAGIN)
 - Underwater Optical Wireless Networks (UOWN)
 - Service Function Chain (SFC) provisioning and Virtualized Network Function (VNF) placement
@@ -61,9 +61,25 @@ Dr. Liu is a Member of IEEE. His research focuses on **resilient optical network
 
 ## Scholarship
 
-- 2019–2020 French Eiffel Excellence Scholarship (top-tier French government doctoral scholarship for outstanding international PhD candidates)
-- 2020–2022 China Scholarship Council (CSC) Doctoral Scholarship (top-tier Chinese government scholarship for overseas joint PhD study)
+- 2019–2020 French Eiffel Excellence Scholarship 
+    - Top-tier French government doctoral scholarship for outstanding international PhD candidates
+- 2020–2022 China Scholarship Council (CSC) Doctoral Scholarship
+    - Top-tier Chinese government scholarship for overseas joint PhD study
 - 2022 Université d’Avignon Cotutelle Scholarship
 
+## Academic Services
+### Journal Reviewer
+- IEEE Communications Magazine
+- IEEE Transactions on Network and Service Management
+- Journal of Optical Communications and Networking
+- IEEE Open Journal of the Communications Society
+- IEEE Networking Letters
+- Photonic Network Communications
+
+### Conference 
+- **TPC Member**: 2026 Globecom, 2025/2026 IEEE ISCC
+- **Reviewer**: 2023 IWCMC, 2022 18th WiMob, 2022 IEEE ISCC, 2020 IEEE GLOBECOM, 2019 6-th ICT-DM 2019
+
 ## Contact
-- Email: yhliu**AT**{gbu.edu}.cn
+- **Email**: yhliu**AT**{gbu.edu}.cn
+- **Address**: W503, Great Bay University, No.16 Daxue Road, Songshan Lake, Dongguan, Guangdong 523808, China
