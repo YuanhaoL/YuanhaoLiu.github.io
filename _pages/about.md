@@ -13,8 +13,6 @@ His research focuses on **resilient optical network scheduling**, **optical inte
 
 Dr. Liu is a Member of IEEE. He has served as a reviewer for several journals (such as IEEE Communications Magazine, IEEE Transactions on Network and Service Management, IEEE Open Journal of the Communications Society, Journal of Optical Communications Networking, IEEE Networking Letters) and conferences (Globecom, IWCMC, WiMob, ISCC, ICT-DM). He has also served as a TPC member for the 2026 IEEE Globecom and the 2025/2026 IEEE ISCC. 
 
-During his doctoral studies, Dr. Liu was awarded several prestigious scholarships, including the French Eiffel Excellence Scholarship (2019–2020), the China Scholarship Council (CSC) Doctoral Scholarship (2020–2022), and the Université d’Avignon Cotutelle Scholarship (2022).
-
 ## Work Experience
 
 - 2024.08.01 –Pres., Special-Term Research Fellow
@@ -53,6 +51,12 @@ During his doctoral studies, Dr. Liu was awarded several prestigious scholarship
 - **Yuanhao Liu**, Fen Zhou, Tao Shang, and Juan-Manuel Torres-Moreno, “Power-efficient and Distance-adaptive Disaster Protection for Service Function Chain Provisioning,” *2022 IEEE Global Communications Conference (GLOBECOM)*, Rio de Janeiro, Brazil, 2022, pp. 4407-4412.
 - **Yuanhao Liu**, Fen Zhou, Cao Chen, Zuqing Zhu, Tao Shang, and Juan-Manuel Torres-Moreno, “Disaster Protection in Inter-DataCenter Networks leveraging Cooperative Storage,” *2020 IEEE Global Communications Conference (GLOBECOM)*, Taipei, 2020, pp. 1-6.
 - **Yuanhao Liu**, Fen Zhou, Michał Pióro, Tao Shang, Juan-Manuel Torres-Moreno, and Abderrahim Benslimane, “On Flow-based Directed p-cycles in Elastic Optical Networks,” *2022 27th IEEE Symposium on Computers and Communications (ISCC)*, Rhodes Island, Jul. 2022, pp. 1-6.
+
+### Scholarship
+
+- 2019–2020 French Eiffel Excellence Scholarship (top-tier French government doctoral scholarship for outstanding international PhD candidates)
+- 2020–2022 China Scholarship Council (CSC) Doctoral Scholarship (top-tier Chinese government scholarship for overseas joint PhD study)
+- 2022 Université d’Avignon Cotutelle Scholarship
 
 ### Contact
 - Email: yhliu**AT**{gbu.edu}.cn
