@@ -55,4 +55,4 @@ During his doctoral studies, Dr. Liu was awarded several prestigious scholarship
 - **Yuanhao Liu**, Fen Zhou, Michał Pióro, Tao Shang, Juan-Manuel Torres-Moreno, and Abderrahim Benslimane, “On Flow-based Directed p-cycles in Elastic Optical Networks,” *2022 27th IEEE Symposium on Computers and Communications (ISCC)*, Rhodes Island, Jul. 2022, pp. 1-6.
 
 ### Contact
-Email: yhliu**AT**{gbu.edu}.cn
+- Email: yhliu**AT**{gbu.edu}.cn
