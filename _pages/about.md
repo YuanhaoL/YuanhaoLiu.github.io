@@ -9,7 +9,16 @@ redirect_from:
 
 **Yuanhao Liu** has been a special-term research fellow at the School of Computing and Information Technology, Greater Bay University, China, since 2024. He received his B.E. and Ph.D. degrees in Information and Communication Engineering in 2016 and 2022, respectively, both from the School of Communication Engineering at Xidian University, China. He also holds a joint Ph.D. in Computer Science, awarded in Nov. 2022 by the Laboratoire Informatique d’Avignon, Université d’Avignon, France.
 
-Dr. Liu is a Member of IEEE. His research focuses on **resilient optical network scheduling**, **optical interconnects for AI computing centers**, **computing and network resource allocation/optimization**, and **underwater optical networks**. He has authored more than 20 high-quality journal and conference papers in leading venues. He has served as a reviewer for several journals and conferences. He has also served as a TPC member for the 2026 IEEE Globecom and the 2025/2026 IEEE ISCC. 
+Dr. Liu is a Member of IEEE. His research focuses on **resilient optical network scheduling**, **optical interconnects for AI computing centers**, etc. He has authored more than 20 high-quality journal and conference papers in leading venues. He has served as a reviewer for several journals and conferences. He has also served as a TPC member for the 2026 IEEE Globecom and the 2025/2026 IEEE ISCC. 
+
+## Research Interests
+
+- Resilient optical network scheduling (disaster failure protection, p-cycle protection, switch/link failure protection in AI computing clusters)
+- Inter/Intra-Data Center optical Networks
+- Space-Air-Ground Integrated Networks (SAGIN)
+- Underwater Optical Wireless Networks (UOWN)
+- Service Function Chain (SFC) provisioning and Virtualized Network Function (VNF) placement
+- Integer Linear Program (ILP) modeling, and heuristics for network optimization problems
 
 ## Work Experience
 
@@ -50,11 +59,11 @@ Dr. Liu is a Member of IEEE. His research focuses on **resilient optical network
 - **Yuanhao Liu**, Fen Zhou, Cao Chen, Zuqing Zhu, Tao Shang, and Juan-Manuel Torres-Moreno, “Disaster Protection in Inter-DataCenter Networks leveraging Cooperative Storage,” *2020 IEEE Global Communications Conference (GLOBECOM)*, Taipei, 2020, pp. 1-6.
 - **Yuanhao Liu**, Fen Zhou, Michał Pióro, Tao Shang, Juan-Manuel Torres-Moreno, and Abderrahim Benslimane, “On Flow-based Directed p-cycles in Elastic Optical Networks,” *2022 27th IEEE Symposium on Computers and Communications (ISCC)*, Rhodes Island, Jul. 2022, pp. 1-6.
 
-### Scholarship
+## Scholarship
 
 - 2019–2020 French Eiffel Excellence Scholarship (top-tier French government doctoral scholarship for outstanding international PhD candidates)
 - 2020–2022 China Scholarship Council (CSC) Doctoral Scholarship (top-tier Chinese government scholarship for overseas joint PhD study)
 - 2022 Université d’Avignon Cotutelle Scholarship
 
-### Contact
+## Contact
 - Email: yhliu**AT**{gbu.edu}.cn
